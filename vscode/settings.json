@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "src/engine/core",
+        "src/game"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

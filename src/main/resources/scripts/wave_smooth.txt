@@ -1,0 +1,6 @@
+type = waypoint
+speed = 50
+easing = easeInOutSine
+point0 = 100,100
+point1 = 300,150
+point2 = 500,300
